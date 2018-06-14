@@ -35,6 +35,13 @@ while (i < 10){
 ...
 ...
 "Now serving 11"*/
+var i = 0;
+
+while (i < 12){
+	console.log("Now serving " + i + ".");
+	i++
+}
+
 
 
 
